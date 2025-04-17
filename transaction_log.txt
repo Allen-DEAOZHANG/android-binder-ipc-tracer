@@ -1,0 +1,2 @@
+[2024-01-15 08:22:33] INFO: call from system_server to com.android.location code 37
+[2024-01-15 08:22:34] INFO: call from com.android.phone to com.android.location code 11
