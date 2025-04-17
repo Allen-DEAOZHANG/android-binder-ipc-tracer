@@ -61,5 +61,6 @@ This tracer gives visibility into this flow and helps debug edge cases that are 
 
 ## 🧑‍💻 Author
 
-[Deao Zhang](https://linkedin.com/in/deao-zhang-87993b249)  Ziyao Wang.
+[Deao Zhang](https://linkedin.com/in/deao-zhang-87993b249)       Ziyao Wang.
+
 Zurich, Switzerland
